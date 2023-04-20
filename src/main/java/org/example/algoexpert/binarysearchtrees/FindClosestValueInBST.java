@@ -20,10 +20,10 @@ public class FindClosestValueInBST {
 
     }
 
-    static int findClosestValueInBST(BST tree, int target, int closest) {
+    static int findClosestValueInBST(BST tree, int target, int closest) {//10
 
         if (tree == null) {
-            return closest;
+            return closest;//10
         }
 
         if (Math.abs(target - closest) > Math.abs(target - tree.value)) {
