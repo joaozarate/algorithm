@@ -1,4 +1,4 @@
-package org.example.algoexpert;
+package org.example.algoexpert.arrays;
 
 import java.util.Arrays;
 import java.util.HashSet;

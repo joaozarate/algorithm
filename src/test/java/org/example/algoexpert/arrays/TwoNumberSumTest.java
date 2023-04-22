@@ -1,5 +1,6 @@
-package org.example.algoexpert;
+package org.example.algoexpert.arrays;
 
+import org.example.algoexpert.arrays.TwoNumberSum;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
